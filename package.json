@@ -1,0 +1,23 @@
+{
+  "name": "r2d2rigo.dotnetzip-for-unity",
+  "version": "1.9.1",
+  "displayName": "DotNetZip for Unity",
+  "description": "A stripped down version of DotNetZip with some fixes so it can be used on Unity projects, including those that target Android and iOS.",
+  "category": "Libraries",
+  "unity": "2018.1",
+  "keywords": [
+    "zip",
+    ".zip",
+    "dotnetzip",
+    "aot",
+    "ios",
+    "android",
+    "compression"
+  ],
+  "author": {
+    "name": "Rodrigo Diaz",
+    "url": "https://github.com/r2d2rigo/dotnetzip-for-unity"
+  },
+  "license": "MS-PL",
+  "hideInEditor": false
+}
